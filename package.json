@@ -1,0 +1,27 @@
+{
+  "name": "cypress-code-challenge",
+  "version": "1.0.0",
+  "description": "cypress tests applaudo studios",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "cypress:open": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walternolak-hn/cypress-code-challenge.git"
+  },
+  "keywords": [
+    "cypress",
+    "automation"
+  ],
+  "author": "walternolasco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walternolak-hn/cypress-code-challenge/issues"
+  },
+  "homepage": "https://github.com/walternolak-hn/cypress-code-challenge#readme",
+  "devDependencies": {
+    "cypress": "^8.6.0"
+  }
+}
